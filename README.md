@@ -21,10 +21,10 @@ Comments in Python start with with a "# ..." 
 
 Upload the following four files to Courseworks:
 
-  problem1.py
-  problem2.py
-  problem3.py
-  problem4.py
+    problem1.py
+    problem2.py
+    problem3.py
+    problem4.py
 
 Important: If you re-submit your assignment you need to re-upload all files, even if you changed just 
 one of them. Otherwise, any files you uploaded previously will be lost if you submit a second time. 
@@ -61,10 +61,10 @@ Save your program in a file problem3.py.
 
 Write a Python program to produce a list of the k-smallest numbers in a list of numbers. 
 
-  For example, if
+    For example, if
 
-  li = [1,2,5,4,3,2]
-  k=3
+    li = [1,2,5,4,3,2]
+    k=3
 
 The output should be a list [1,2,2]
 
