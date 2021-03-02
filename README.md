@@ -21,10 +21,10 @@ Comments in Python start with with a "# ..." 
 
 Upload the following four files to Courseworks:
 
-problem1.py
-problem2.py
-problem3.py
-problem4.py
+  problem1.py
+  problem2.py
+  problem3.py
+  problem4.py
 
 Important: If you re-submit your assignment you need to re-upload all files, even if you changed just 
 one of them. Otherwise, any files you uploaded previously will be lost if you submit a second time. 
@@ -59,14 +59,14 @@ Save your program in a file problem3.py.
 
 **Problem 4 (25 pts) - k-smallest numbers**
 
-Write a Python program to produce a list of the k-smallest numbers in a list of numbers. For example, if
+Write a Python program to produce a list of the k-smallest numbers in a list of numbers. 
 
-li = [1,2,5,4,3,2]
-k=3
+  For example, if
 
-The output should be a list
+  li = [1,2,5,4,3,2]
+  k=3
 
-[1,2,2]
+The output should be a list [1,2,2]
 
 Discuss the algorithm for doing this first (possibly using pen and paper) before starting to program. Do NOT sort
 the list for this problem (e.g. do not use the list.sort() method). Your program may contain specific values for
