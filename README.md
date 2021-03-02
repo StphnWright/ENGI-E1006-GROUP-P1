@@ -1,6 +1,6 @@
-ENGI E1006 - Intro to Computing for Engineers & Applied Scientists 
+**ENGI E1006 - Intro to Computing for Engineers & Applied Scientists**
 
-Group Exercise Set 1
+**Group Exercise Set 1**
 
 Due: Wed February 3 11:59pm, New York time (ET / GMT-5) 
 
@@ -29,7 +29,7 @@ problem4.py
 Important: If you re-submit your assignment you need to re-upload all files, even if you changed just 
 one of them. Otherwise, any files you uploaded previously will be lost if you submit a second time. 
 
-Problem 1 (25 pts) - Paint Calculator
+**Problem 1 (25 pts) - Paint Calculator**
 
 Write a program that estimates how much paint is needed to paint a rectangular room. Assume that the room
 has no windows and no doors, and that the floor does not have to be painted. Your program should read in
@@ -38,7 +38,9 @@ of paint needed in liters. Assume that 2.5 liters are needed to paint a surface 
 
 Save your program in a file problem1.py.
 
-Problem 2 (25 pts) - 24-hour Clock A day has 86,400 secs (24 * 60 * 60). Given a number in the range
+**Problem 2 (25 pts) - 24-hour Clock**
+
+A day has 86,400 secs (24 * 60 * 60). Given a number in the range
 1 to 86,400 (inclusive), output the corresponding time as hours, minutes and seconds in a 24-hour clock format.
 
 For example 70,000 seconds is "19 hours, 26 minutes, and 40 seconds". Your program should ask the user to type
@@ -47,7 +49,7 @@ values is 1, for example "1 hour, 1 minute, and 1 second".
 
 Save your program in a file problem2.py.
 
-Problem 3 (25 pts) - Perfect Numbers
+**Problem 3 (25 pts) - Perfect Numbers**
 
 A number is perfect if it is equal to the sum of its factors (except itself, but including 1). For example,
 28 (with factors 1,2,4,7,14) is perfect because 28 = 1+2+4+7+14. Write a Python program to determine if a
@@ -55,7 +57,7 @@ number is perfect. Try to make your program as efficient as possible by reducing
 
 Save your program in a file problem3.py.
 
-Problem 4 (25 pts) - k-smallest numbers
+**Problem 4 (25 pts) - k-smallest numbers**
 
 Write a Python program to produce a list of the k-smallest numbers in a list of numbers. For example, if
 
