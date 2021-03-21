@@ -2,12 +2,6 @@
 
 **Group Exercise Set 1**
 
-Due: Wed February 3 11:59pm, New York time (ET / GMT-5) 
-
-Please ask the instructor and CAs/TAs for help if you get stuck. 
-
-Some material needed for this exercise set will not be discussed until the week of January 25.
-
 Use input() to read user input and print() to print results. Remember to convert the user input 
 to integers where necessary. Do not use Python modules other than those explicitly mentioned. 
 
