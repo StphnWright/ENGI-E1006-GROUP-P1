@@ -1,7 +1,6 @@
 """
 A program to produce a list of the k-smallest
 numbers in a given list of numbers.
-
 """
 
 # Driver program
