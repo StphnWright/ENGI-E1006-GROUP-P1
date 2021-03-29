@@ -1,6 +1,5 @@
 """
 A program to determine if a number is perfect.
-
 """
 
 import math
