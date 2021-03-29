@@ -1,7 +1,6 @@
 """
 A program that estimates how much paint is needed
 to paint a rectangular room. 
-
 """
 
 #liters of paint per square meter
