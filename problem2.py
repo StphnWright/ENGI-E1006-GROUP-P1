@@ -1,7 +1,6 @@
 """
 A program to convert a number to hours, minutes, 
 and seconds in a 24-hour clock format.
-
 """
 
 #index will add s if plural
